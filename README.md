@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋Hi, I'm Arthur Miranda Sales I'm a junior programmer focused on front end I love programming and learning all about this IT area and I am looking to become a full-stack programmer.<br>- 👀 I’m interested in Java, Js, Html, CSS, React, Python and C#<br>- 📫 How to reach me arthursales@tutanota.com
+- 👋Hi, I'm Arthur Miranda Sales I'm a junior programmer focused on front end I love programming and learning all about this IT area and I am looking to become a back-end programmer.<br>- 👀 I’m interested in Java, Js, Html, CSS, React, Python and C#<br>- 📫 How to reach me arthursales@tutanota.com
 
 
 ## 🌐 Socials:
